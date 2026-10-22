@@ -1,0 +1,40 @@
+{
+  "login": "MurbX",
+  "name": "Brian Mutuku",
+  "title": "Full-Stack Developer & Solutions Architect",
+  "headline": { "before": "I turn product ideas into", "accent": "shipped", "after": "web & mobile apps." },
+  "location": "Nairobi, Kenya",
+  "status": "Open to new projects",
+  "portfolio": "https://murbxp.is-a.dev",
+  "avatar": "assets/src/avatar.jpg",
+  "ticker": [
+    "Building in public",
+    "MVPs in weeks, not months",
+    "No-code to production code",
+    "Free tools on GitHub",
+    "Follow the build"
+  ],
+  "highlights": [
+    { "value": "4,000+", "label": "active users" },
+    { "value": "15+", "label": "products shipped" },
+    { "value": "30 days", "label": "average to MVP" },
+    { "value": "6+ yrs", "label": "building since 2020" }
+  ],
+  "stack": ["nextdotjs", "react", "typescript", "flutter", "supabase", "vercel", "bubble", "figma", "openai", "stripe"],
+  "tools": [
+    {
+      "repo": "MurbX/screenrecorder",
+      "name": "ScreenRec",
+      "tagline": "A fast, lightweight screen recorder and screenshot tool for Windows.",
+      "platform": "Windows 10 & 11",
+      "features": [
+        "GPU-accelerated recording, 4K down to 1080p at 60 FPS",
+        "Webcam overlay, cursor highlight and live drawing",
+        "Screenshot editor with blur, callouts and numbered steps",
+        "Native C++, about 1 MB, free and open source"
+      ]
+    }
+  ],
+  "theme": { "accent": "#F5691B" },
+  "cards": { "width": 880 }
+}

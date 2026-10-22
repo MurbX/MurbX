@@ -1,93 +1,112 @@
-# 👋 Hi, I'm Brian Mutuku (@MurbX)
+<div align="center">
 
-**Senior No-Code Developer & Product Designer** based in Kenya 🇰🇪
+<a href="https://murbxp.is-a.dev">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/header-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/header-light.svg">
+  <img alt="Brian Mutuku, Full-Stack Developer and Solutions Architect. I turn product ideas into shipped web and mobile apps. Open to new projects." src="./assets/header-light.svg" width="880">
+</picture>
+</a>
 
-I specialize in building scalable applications using no-code platforms, with a focus on turning complex ideas into functional, user-friendly products.
+</div>
 
-## 🚀 What I Do
-
-- 🔨 Building enterprise-grade applications with **Bubble.io**, **FlutterFlow**, and **Webflow**
-- 🎨 Creating beautiful, intuitive user experiences with **Figma**
-- ⚡ Developing custom WordPress plugins to extend **Elementor** functionality
-- 🤖 Integrating AI/ML solutions into no-code platforms
-- 📊 Building data-driven dashboards and analytics tools
-
-## 💼 Professional Experience
-
-- **Senior Bubble Developer** @ Deploy (2023 - Present) | Tel Aviv, Israel
-- **WordPress Plugin Developer** @ Productive (Apr - Jul 2024) | Israel
-- **Bubble.io Developer & Founder** @ Bubble.io Developer (2021 - 2023) | Remote
-
-## 🛠️ Tech Stack
-
-**No-Code Platforms:**
-- Bubble.io (Expert Level)
-- FlutterFlow
-- Webflow
-- Framer
-
-**Design & Tools:**
-- Figma
-- Xano (Backend/APIs)
-- WordPress/Elementor
-
-**Code (When Needed):**
-- JavaScript/TypeScript
-- Next.js
-- Tailwind CSS
-
-## 🌟 Featured Projects
-
-- **[Craftad.ai](https://craftad.ai)** - AI-powered marketing content generation platform
-- **[FFili](https://ffili.com)** - Influencer marketing platform with smart matching algorithm
-- **[Katchings](https://katchings.com)** - Financial advisory platform for investment tracking
-- **[OpenTrade Analytics](https://opentrade-56584.bubbleapps.io)** - Trading platform with real-time market data
-- **[Hi Preemie](https://hi-preemie.com)** - NICU baby care management application
-- **AHNA Management System** - 6-module comprehensive enterprise solution
-
-## 📊 GitHub Stats
-
-![MurbX's GitHub stats](https://github-readme-stats.vercel.app/api?username=MurbX&show_icons=true&theme=radical)
-
-## 📈 What I'm Working On
-
-- 🔭 Currently building AI-powered no-code solutions
-- 🌱 Learning advanced n8n workflow automation
-- 👯 Open to collaborating on innovative no-code projects
-- 💬 Ask me about Bubble.io, no-code development, or product design
-
-## 📫 Get In Touch
-
-- 🌐 Portfolio: [murbxpn8n.dev](https://murbxpn8n.dev)
-- 💼 LinkedIn: [brian-mutuku-developer](https://www.linkedin.com/in/brian-mutuku-developer/)
-- 🐦 Twitter: [@MurbBrian_ke](https://x.com/MurbBrian_ke)
-- 📧 Email: brianmurb22@gmail.com
-- 📅 Book a call: [30min chat](https://cal.com/brian-mutuku-dev/30min)
-
-## 🎯 Key Achievements
-
-- 🚀 **4,000+** Active Users across platforms
-- 💼 **50+** Projects delivered successfully
-- ⭐ **3+ Years** of professional no-code development
-- ⚡ **30 Days** average time to MVP
-
-## 💡 Fun Facts
-
-- 🏋️ Health and fitness enthusiast - I lift weights and practice yoga
-- 🎨 Passionate about clean code and beautiful design
-- 🌍 Working with clients globally from Kenya
-- ☕ Coffee-powered developer
-
----
+I take products from first prototype to production: web apps, mobile apps, AI features and the
+integrations that hold them together, for healthcare, fintech, proptech and community teams. Most of
+that work lives in private client repositories, so the numbers below count every repo I commit to,
+not just the public ones.
 
 <div align="center">
 
-**💼 Available for freelance work and collaborations**
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-murbxpn8n.dev-blue?style=for-the-badge)](https://murbxpn8n.dev)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/brian-mutuku-developer/)
-[![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter)](https://x.com/MurbBrian_ke)
-
-*Made with ❤️ in Kenya* 🇰🇪
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/proof-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/proof-light.svg">
+  <img alt="4,000+ active users, 15+ products shipped, 30 days average to MVP, 6+ years building. Contribution heatmap for the last year, including private client work." src="./assets/proof-light.svg" width="880">
+</picture>
 
 </div>
+
+## Selected work
+
+<p align="center">
+  <a href="https://murbxp.is-a.dev/projects/clutch-ai"><img src="./assets/work/clutch-ai.webp" alt="Clutch AI: AI ad studio that turns a brand kit into scored, ready-to-run campaigns" width="49%"></a>
+  <a href="https://murbxp.is-a.dev/projects/hunters"><img src="./assets/work/hunters.webp" alt="Hunters: recruitment marketplace where jobs become tenders and head-hunters compete" width="49%"></a>
+  <a href="https://murbxp.is-a.dev/projects/printika"><img src="./assets/work/printika.webp" alt="Printika: custom print design and ordering with a live 2D/3D product preview" width="49%"></a>
+  <a href="https://murbxp.is-a.dev/projects/eshuv"><img src="./assets/work/eshuv.webp" alt="Eshuv: community app for settlements with alerts, events and neighbour sharing" width="49%"></a>
+  <a href="https://murbxp.is-a.dev/projects/curebox"><img src="./assets/work/curebox.webp" alt="CureBox: healthcare and therapy platform with patient and therapist portals" width="49%"></a>
+  <a href="https://murbxp.is-a.dev/projects/craftad"><img src="./assets/work/craftad.webp" alt="Craftad.ai: AI content platform generating ad creatives and copy" width="49%"></a>
+</p>
+
+<p align="center"><sub>Each tile opens the full case study on <a href="https://murbxp.is-a.dev">murbxp.is-a.dev</a>.</sub></p>
+
+## Open source
+
+<a href="https://github.com/MurbX/screenrecorder">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/tool-1-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/tool-1-light.svg">
+  <img alt="ScreenRec: a fast, lightweight screen recorder and screenshot tool for Windows. Free and open source." src="./assets/tool-1-light.svg" width="880">
+</picture>
+</a>
+
+<div align="center">
+
+<a href="https://murbxp.is-a.dev">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/cta-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/cta-light.svg">
+  <img alt="View portfolio at murbxp.is-a.dev" src="./assets/cta-light.svg" width="880">
+</picture>
+</a>
+
+<sub>
+<a href="https://murbxp.is-a.dev/resume.pdf">Resume</a> &nbsp;·&nbsp;
+<a href="https://www.linkedin.com/in/brian-mutuku-developer/">LinkedIn</a> &nbsp;·&nbsp;
+<a href="https://x.com/MurbBrian_ke">X</a> &nbsp;·&nbsp;
+<a href="mailto:brianmurb22@gmail.com">Email</a> &nbsp;·&nbsp;
+<a href="https://cal.com/brian-mutuku-dev/30min">Book a 30-minute call</a>
+</sub>
+
+</div>
+
+<br>
+
+<details>
+<summary><b>How this page builds itself</b></summary>
+
+<br>
+
+The cards are SVGs generated by [`scripts/render.mjs`](scripts/render.mjs) and refreshed every six
+hours by [a scheduled workflow](.github/workflows/refresh.yml). No third-party widget services, so
+nothing here breaks when someone else's server goes down. Fonts (Geist and Instrument Serif) are
+embedded as small subsets, so the cards look the same everywhere.
+
+**Why it doesn't use the contribution graph.** GitHub's `contributionsCollection` API leaves out
+commits to private and organization repos, and most of my work lives in client and team repos. So the
+renderer walks the commit history of every repository the token can reach and counts commits
+directly, then merges in the contribution calendar (taking the larger value per day, never the sum).
+Only totals are published; repository and client names never appear on this page.
+
+```
+scripts/
+  render.mjs          fetch → render → write assets/
+  lib/github.mjs      REST commit harvest + GraphQL merge
+  lib/theme.mjs       dark & light palettes
+  lib/fonts.mjs       embedded font subsets + exact text measuring
+  lib/svg.mjs         primitives
+  cards/*.mjs         header, proof, tool, cta
+  fonts/              WOFF subsets and glyph metrics
+assets/work/          project tiles (static)
+profile.config.json   name, headline, highlights, stack, tools — edit this, not the code
+```
+
+Run it locally:
+
+```bash
+PROFILE_TOKEN=$(gh auth token) node scripts/render.mjs
+```
+
+Private work only counts when the token can see it: create a PAT with `repo` scope and save it as the
+repository secret `PROFILE_TOKEN`. Without it the workflow falls back to the Actions token and counts
+public repos only.
+
+</details>

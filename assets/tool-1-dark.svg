@@ -20,7 +20,7 @@
     <text x="850" y="64" font-family="Geist,ui-sans-serif,-apple-system,'Segoe UI',Roboto,Arial,sans-serif" font-size="12" font-weight="500" fill="#A8A29A" text-anchor="end">github.com/MurbX/screenrecorder</text>
 
     <text x="30" y="100" font-family="Geist,ui-sans-serif,-apple-system,'Segoe UI',Roboto,Arial,sans-serif" font-size="15.5" font-weight="500" fill="#D6D0C7">A fast, lightweight screen recorder and screenshot tool for Windows.</text>
-    <text x="30" y="121" font-family="Geist,ui-sans-serif,-apple-system,'Segoe UI',Roboto,Arial,sans-serif" font-size="12" font-weight="500" fill="#8E887F">Released 12 days ago · C++ · MIT licence · Windows 10 &amp; 11</text>
+    <text x="30" y="121" font-family="Geist,ui-sans-serif,-apple-system,'Segoe UI',Roboto,Arial,sans-serif" font-size="12" font-weight="500" fill="#8E887F">Released 13 days ago · C++ · MIT licence · Windows 10 &amp; 11</text>
     <rect x="30" y="138" width="404" height="28" rx="4" fill="#22C55E" opacity="0.09"/>
         <text x="41" y="156.5" font-family="Geist,ui-sans-serif,-apple-system,'Segoe UI',Roboto,Arial,sans-serif" font-size="13" font-weight="700" fill="#4ADE80">+</text>
         <text x="56" y="156.5" font-family="Geist,ui-sans-serif,-apple-system,'Segoe UI',Roboto,Arial,sans-serif" font-size="12.5" font-weight="500" fill="#BBF7D0">GPU-accelerated recording, 4K down to 1080p at 60 FPS</text><rect x="446" y="138" width="404" height="28" rx="4" fill="#22C55E" opacity="0.09"/>
